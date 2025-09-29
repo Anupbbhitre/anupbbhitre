@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Hi, I'm Anup Bhitre
 
-<!--
-**Anupbbhitre/anupbbhitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Salesforce Developer | 4+ years of experience in the Salesforce ecosystem  
+⚡ Specialized in Apex, LWC, Aura, REST & SOAP APIs, and Admin (Sharing & Security)  
+🚀 Fintech domain expertise | Platform Development Certified | Salesforce Certified Administrator
 
-Here are some ideas to get you started:
+## 🔹 Skills
+- **Salesforce Development**: Apex, LWC, Aura, Triggers, Batch Apex
+- **Integrations**: REST API, SOAP API, Postman, Third-Party APIs
+- **Administration**: Sharing Rules, Security Model, App Builder
+- **Programming & AI**: Python, Java, Jupyter Notebook, data Science  
+- **Tools**: Salesforce CLI, Git/GitHub, Postman
+- Salesforce CLI, Git/GitHub, Postman, copado deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects
+Loading...
+
+## 🔹 Connect with Me 
+- 📧 [Email](anupbbhitre@gmail.com)
+
