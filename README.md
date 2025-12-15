@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anup Bhitre
 
-💻 Salesforce Developer | 4+ years of experience in the Salesforce ecosystem  
+💻 Salesforce Developer | 3+ years of experience in the Salesforce ecosystem  
 ⚡ Specialized in Apex, LWC, Aura, REST & SOAP APIs, and Admin (Sharing & Security)  
 🚀 Fintech domain expertise | Platform Development Certified | Salesforce Certified Administrator
 
