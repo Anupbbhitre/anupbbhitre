@@ -16,5 +16,4 @@
 Loading...
 
 ## 🔹 Connect with Me 
-- 📧 [Email](anupbbhitre@gmail.com)
-
+- 📧 [Email](anup.bhitre@outlook.com)
